@@ -1,7 +1,6 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
-include "function.php";
-echo color("red","                  GeMseN Script Gofood \n");
+echo color("red","                  OMPONG Script Gofood \n");
 echo color("white","           Time  : ".date('[d-m-Y] [H:i:s]')."   \n");
 echo color("blue","                   Format Kode 62*** \n");
 function change (){
