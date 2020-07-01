@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set('Asia/Solo');
+date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green","💵              Auto Regist-Claim              💵\n");
 echo color("green","💵                Author : OMPONG                💵\n");
