@@ -34,7 +34,7 @@ function change(){
         claim:
         echo color("green","===========<Bismillah>===========");
         reff:
-        $data = '{"referral_code":"G-CVNN2Q5"}';    
+        $data = '{"promo_code":"G-D22KNJT"}';    
         $claim = request("/customer_referrals/v1/campaign/enrolment", $token, $data);
         $message = fetch_value($claim,'"message":"','"');
         if(strpos($claim, 'Promo kamu sudah bisa dipakai')){
