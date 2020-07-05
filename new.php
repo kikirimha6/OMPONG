@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set('Asia/Jakarta');
+date_default_timezone_set('Asia/Bandung');
 include "fuck.php";
 ulang:
 // function change(){
